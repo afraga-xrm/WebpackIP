@@ -1,6 +1,6 @@
-# LOBLAWS PORTAL SCRIPT
+# WebpackIP
 
-*This repository contains all the client scripts that are loaded on the Loblaws portal website. It uses TypeScript and Webpack to build scripts and export them into a `bundle.js` file. Webpack is configured with plugins to optimize the compilation process for faster builds.*
+*This repository Provide a simple way to compile Js assets  it uses TypeScript and Webpack to build scripts and export them into a `bundle.js` file. Webpack is configured with plugins to optimize the compilation process for faster builds.*
 
 ## How to Run the Project
 
@@ -19,8 +19,6 @@ npm run build:prod
 
 ## Project Documentation
 
-**Maintaining up-to-date documentation within this README is crucial for future developers.** 
-
 ### Application Structure
 
 #### Entrypoint
@@ -28,6 +26,7 @@ npm run build:prod
 - **src/index.ts**: The main entry point of the application. If you create any new TypeScript files, ensure they are exportable and import them as modules inside `index.ts`.
 
 ### Folder Structure
+(The following folders are place holder feel free to remove and replace them)
 
 #### Forms
 
